@@ -1,0 +1,9 @@
+Package: com.ihack102.waeditmessage
+Name: WAEditMessage
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Edit & Revoke WhatsApp Message
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks
